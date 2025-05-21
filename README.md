@@ -2,7 +2,7 @@
 # **Hi 👋 I'm Ofek Kanari**
 <br>
 <div> 
-- 🌱 I’m currently learning B.Sc. in Software Engineering (Second year)</div>
+- 🌱 I’m currently learning B.Sc. in Software Engineering (Second year)
 - 🤝 I’m looking for help with *First job*
 - 📫 How to reach me *ofekgki@gmail.com*
 <br/>
