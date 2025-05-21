@@ -1,7 +1,7 @@
 
 # **Hi 👋 I'm Ofek**
 <br>
-<div align="center"> A software Engineering Student (Second year) </div>
+<div>  I’m currently learning B.Sc. in Software Engineering (Second year)</div>
 <br/>
 
 ## My Skill Set
