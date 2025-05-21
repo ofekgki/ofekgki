@@ -1,7 +1,10 @@
 
-# **Hi 👋 I'm Ofek**
+# **Hi 👋 I'm Ofek Kanari**
 <br>
-<div>  I’m currently learning B.Sc. in Software Engineering (Second year)</div>
+<div> 
+- 🌱 I’m currently learning B.Sc. in Software Engineering (Second year)</div>
+- 🤝 I’m looking for help with **First job**
+- 📫 How to reach me **ofekgki@gmail.com**
 <br/>
 
 ## My Skill Set
@@ -19,6 +22,8 @@
 <div align="center">
 <a href="https://github.com/ofekgki" target="_blank"><img style="margin-bottom: 5px" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github /></a>
 <a href="https://www.linkedin.com/in/ofek-kanari/" target="_blank"><img style="margin-bottom: 5px" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin /></a>
+<a href="https://instagram.com/ofekkanari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ofekkanari" height="30" width="40" /></a>
+</p>
 </div>
 <br/>  
 
