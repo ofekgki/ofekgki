@@ -21,7 +21,7 @@
 ## Contact Information
 <div align="center">
 <a href="https://github.com/ofekgki" target="_blank"><img style="margin-bottom: 5px" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github /></a>
-<a href="https://www.linkedin.com/in/ofek-kanari/" target="_blank"><img style="margin-bottom: 5px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt=linkedin /></a>
+<a href="https://www.linkedin.com/in/ofek-kanari/" target="_blank"><img style="margin-bottom: 5px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt=linkedin height="30" width="40" /></a>
 <a href="https://instagram.com/ofekkanari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ofekkanari" height="30" width="40" /></a>
 </p>
 </div>
