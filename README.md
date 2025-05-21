@@ -3,8 +3,8 @@
 <br>
 <div> 
 - 🌱 I’m currently learning B.Sc. in Software Engineering (Second year)</div>
-- 🤝 I’m looking for help with **First job**
-- 📫 How to reach me **ofekgki@gmail.com**
+- 🤝 I’m looking for help with *First job*
+- 📫 How to reach me *ofekgki@gmail.com*
 <br/>
 
 ## My Skill Set
