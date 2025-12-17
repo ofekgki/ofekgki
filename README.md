@@ -13,6 +13,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cs" alt="C#" height="50" /></a>  
+  <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git,github" alt="Git" height="50" /></a>  
