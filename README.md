@@ -41,5 +41,5 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofekgki&size_weight=0&count_weight=0.4&langs_count=8&hide=javascript,css,HTML,makefile&layout=compact" align="center" />
+<img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=ofekgki" align="center" />
 <br/>
