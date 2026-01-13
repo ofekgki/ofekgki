@@ -41,5 +41,5 @@
 
 
 ## Github Stats  
-<img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=ofekgki" align="center" />
+<img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=ofekgki&type=languages" align="center" />
 <br/>
