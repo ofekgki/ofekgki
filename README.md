@@ -42,4 +42,5 @@
 
 ## Github Stats  
 <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=ofekgki&type=languages" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=ofekgki&show_icons=true&theme=radical" align="center" />
 <br/>
