@@ -26,7 +26,7 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" height="50" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VS Code" height="50" /></a>  
 <a href="https://eclipseide.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="Eclipse" height="50" /></a>  
-<a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/androidstudio.svg" alt="Android Studio" height="50" /></a>
+<a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons//AndroidStudio-Dark.svg" alt="Android Studio" height="50" /></a>
 
 </div>
 
