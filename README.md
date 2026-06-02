@@ -16,6 +16,8 @@
   <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="50" /></a>
 <a href="https://cran.r-project.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="R" height="50" /></a> 
 <a href="https://www.swift.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" alt="Swift" height="50" /></a> 
+  </div>
+  <div align="center">
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git,github" alt="Git" height="50" /></a>  
